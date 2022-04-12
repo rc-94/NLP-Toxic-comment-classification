@@ -14,3 +14,4 @@ Finally, the MLGNN.ipynb extends the MLGNN framework to our multi-class text cla
 
 The pdf file report.pdf analyzes our work. 
 
+Our work can be reproduced by using the standalone notebooks. One only requires to download the dataset train.csv at the corresponding url : https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge.
