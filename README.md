@@ -3,7 +3,7 @@
 This is the repository for the NLP project in the context of IASD and MASH masters, PSL university : toxic comment classification. The dataset, found on Kaggle, is made of comments, classified into classes : toxic, severe toxic, obscene, threat, insult, identity_hate and regular comments.
 
 In this work, we tested several methods : 
-- apply a Bag Of Words (BOW) + Logistic Regression classifier
+- Apply a Bag Of Words (BOW) + Logistic Regression classifier
 - Use GPT2 to obtain embeddings from words in the comments, that we stack in a padded matrix. Then, apply a MLP or a RandomForest on this matrix
 - Extend the Multi-Level Graph Neural Network (slightly modified) to a multi-class text classification, on large sentences.
 
