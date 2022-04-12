@@ -1,6 +1,6 @@
 # NLP-Toxic-comment-classification
 
-This is the repository for the NLP project in the context of IASD master, PSL university : toxic comment classification. The dataset, found on Kaggle, is made of comments, classified into classes : toxic, severe toxic, obscene, threat, insult, identity_hate and regular comments.
+This is the repository for the NLP project in the context of IASD and MASH masters, PSL university : toxic comment classification. The dataset, found on Kaggle, is made of comments, classified into classes : toxic, severe toxic, obscene, threat, insult, identity_hate and regular comments.
 
 In this work, we tested several methods : 
 - apply a Bag Of Words (BOW) + Logistic Regression classifier
